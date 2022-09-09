@@ -6,6 +6,9 @@
 
 [Демо](https://svetlanael12.github.io/cloudbudget/) | [Репозиторий](https://github.com/svetlanael12/cloudbudget)
 
+Веб-приложение заметок (с сохранением заметок в local storage)  
+[Демо](https://svetlanael12.github.io/notebook/) | [Репозиторий](https://github.com/svetlanael12/notebook)
+
 Игра "крестики-нолики"
 
 [Демо](https://svetlanael12.github.io/tic-tac-toe/) | [Репозиторий](https://github.com/svetlanael12/tic-tac-toe)
