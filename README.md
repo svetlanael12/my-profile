@@ -1,3 +1,6 @@
+Интернет-магазин техники  
+[Репозиторий](https://github.com/svetlanael12/online-shop)
+
 Лендинг выполнен на React.js 
 
 [Демо](https://svetlanael12.github.io/virtual/) | [Репозиторий](https://github.com/svetlanael12/virtual)
