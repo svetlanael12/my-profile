@@ -1,4 +1,12 @@
+Сервис микроблогов, в котором пользователи публикуют небольшие посты и взаимодействуют с ними. 
+В работе на frontend-части использовался React (react router), redux (redux-thunk). На backend –  Express.js, MongoDB, mongoose, passport-jwt   
+[Демо](https://svetlanael12.github.io/twits/) | [Репозиторий](https://github.com/svetlanael12/twits)
+
+Многостраничный сайт веб студии  
+[Демо](https://svetlanael12.github.io/Create-Studio/) | [Репозиторий](https://github.com/svetlanael12/Create-Studio)
+
 Интернет-магазин техники  
+Реализована авторизация, rest api, админ панель для добавления товаров на страницу, возможность фильтрации и корзина. В работе на frontend-части использовался React, MobX, axios, а на backend - Express.js, PostgreSQL, Sequelize  
 [Репозиторий](https://github.com/svetlanael12/online-shop)
 
 Лендинг выполнен на React.js   
