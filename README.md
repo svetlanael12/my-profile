@@ -7,7 +7,7 @@
 [Демо](https://anon-chat-el12.netlify.app/) | [Репозиторий](https://github.com/svetlanael12/anon-chat)
 
 Многостраничный сайт веб студии  
-Разработано с использованием инструментов: react, react-router-dom
+Разработано с использованием инструментов: react, react-router-dom  
 [Демо](https://svetlanael12.github.io/Create-Studio/) | [Репозиторий](https://github.com/svetlanael12/Create-Studio)
 
 Интернет-магазин техники  
