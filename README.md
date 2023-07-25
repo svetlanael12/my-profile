@@ -2,6 +2,10 @@
 В работе на frontend-части использовался React (react router), redux (redux-thunk). На backend –  Express.js, MongoDB, mongoose, passport-jwt   
 [Демо](https://svetlanael12.github.io/twits/) | [Репозиторий](https://github.com/svetlanael12/twits)
 
+Анонимный чат для общения
+Разработано с использованием инструментов: react (type script), react-router-dom, socket.io. Использовался подход Mobile-first верстки и BEM-методология  
+[Демо](https://anon-chat-el12.netlify.app/) | [Репозиторий](https://github.com/svetlanael12/anon-chat)
+
 Многостраничный сайт веб студии  
 [Демо](https://svetlanael12.github.io/Create-Studio/) | [Репозиторий](https://github.com/svetlanael12/Create-Studio)
 
