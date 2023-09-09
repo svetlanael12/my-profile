@@ -6,6 +6,10 @@
 Разработано с использованием инструментов: react (type script), react-router-dom, socket.io. Использовался подход Mobile-first верстки и BEM-методология  
 [Демо](https://anon-chat-el12.netlify.app/) | [Репозиторий](https://github.com/svetlanael12/anon-chat)
 
+Почтовый клиент    
+Разработано с использованием инструментов: React, TypeScript, MobX. Использовался подход Mobile-first верстки и BEM-методология.  
+[Демо](https://readonly-tot-systems.netlify.app/folder/inbox) | [Репозиторий](https://github.com/svetlanael12/readOnly--tot-systemst)
+
 Многостраничный сайт веб студии  
 Разработано с использованием инструментов: react, react-router-dom  
 [Демо](https://svetlanael12.github.io/Create-Studio/) | [Репозиторий](https://github.com/svetlanael12/Create-Studio)
