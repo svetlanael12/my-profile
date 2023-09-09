@@ -8,7 +8,7 @@
 
 Почтовый клиент    
 Разработано с использованием инструментов: React, TypeScript, MobX. Использовался подход Mobile-first верстки и BEM-методология.  
-[Демо](https://readonly-tot-systems.netlify.app/folder/inbox) | [Репозиторий](https://github.com/svetlanael12/readOnly--tot-systemst)
+[Демо](https://readonly-tot-systems.netlify.app/folder/inbox) | [Репозиторий](https://github.com/svetlanael12/readOnly--tot-systems)
 
 Многостраничный сайт веб студии  
 Разработано с использованием инструментов: react, react-router-dom  
