@@ -1,3 +1,6 @@
+Почтовый клиент. В работе на frontend-части использовался React (react router), Mobx   
+[Демо](https://readonly-tot-systems.netlify.app/folder/inbox) | [Репозиторий](https://github.com/svetlanael12/readOnly--tot-systems)
+
 Сервис микроблогов, в котором пользователи публикуют небольшие посты и взаимодействуют с ними. 
 В работе на frontend-части использовался React (react router), redux (redux-thunk). На backend –  Express.js, MongoDB, mongoose, passport-jwt   
 [Демо](https://svetlanael12.github.io/twits/) | [Репозиторий](https://github.com/svetlanael12/twits)
